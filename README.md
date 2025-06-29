@@ -1,6 +1,6 @@
-# Bedrock Knowledge Base with OpenSearch Managed Cluster Deployment 
+# Amazon Bedrock Knowledge Base with OpenSearch Managed Cluster Deployment 
 
-This guide walks you through deploying and using a Bedrock Knowledge Base integrated with an OpenSearch managed cluster for vector storage.
+This guide walks you through deploying and using Amazon Bedrock Knowledge Base integrated with an OpenSearch managed cluster for vector storage.
 
 ## Prerequisites
 
